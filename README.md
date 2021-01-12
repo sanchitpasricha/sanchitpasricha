@@ -12,7 +12,7 @@
 </h3>
 
 
-<img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="150">
+<img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="250">
 <h3>💻About Me</h3>
 
 
@@ -26,7 +26,7 @@
 - ✍️ &nbsp; I read books that inspires me.
 
 
-<img align='right' src="https://media0.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif?cid=ecf05e4710e58c4052852ec595290af281850ccdc67b9730&rid=giphy.gif" width="100">
+<img align='left' src="https://media0.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif?cid=ecf05e4710e58c4052852ec595290af281850ccdc67b9730&rid=giphy.gif" width="170" height = 170>
 
 <h3>🛠 Tech gone through</h3>
 
@@ -53,6 +53,15 @@
 
 - 🔧 &nbsp; Java | Cloud ☁️ 
 
+<h3>👾 Things I do in free time</h3>
+
+- 🎧 Listen Music and podcasts
+
+- 📺 Watch Tech videos
+
+- 📚 Read books (sometimes)
+
+- 🍿 Netflix
 <hr>
 
 
