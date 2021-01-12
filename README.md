@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Sanchit Pasrihca</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻About Me💻</h3>
+
+
+
+- 🤔 &nbsp; Learning New things and revising concepts daily.
+
+- 🎓 &nbsp; Studying Computer Science Engineering at Chitkara University, Chandigharh.
+
+- 🌱 &nbsp; Taking some online courses on Coursera and Udemy.
+
+- ✍️ &nbsp; I read books that inspires me.
+
+
+
+<h3>🛠 Tech Things gone through</h3>
+
+
+
+- 💻 &nbsp; C | C++ | Python | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
 <!--
-**sanchitpasricha/sanchitpasricha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🛢 &nbsp; MySQL | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
 -->
+
+- 🖥 &nbsp; Filmora | Photoshop | Corel Draw
+
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Java | Cloud ☁️ 
+
+<hr>
+
+
+
+
+
