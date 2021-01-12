@@ -15,6 +15,7 @@
 - ✍️ &nbsp; I read books that inspires me.
 
 
+<img align='right' src="<img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="150">" width="150">
 
 <h3>🛠 Tech Things gone through</h3>
 
