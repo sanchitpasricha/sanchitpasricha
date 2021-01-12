@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Sanchit Pasrihca</h2>
 
-<img align='left' src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=ecf05e47998bca3d478d976d97f2ff40da03908c8851b405&rid=giphy.gif" width="230">
+<img align='center' src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=ecf05e47998bca3d478d976d97f2ff40da03908c8851b405&rid=giphy.gif" width="230">
 
 <br><br>
 
