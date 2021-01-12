@@ -48,7 +48,7 @@
 
 
 <img align='right' src="https://media3.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47aee82c42d06ae6098564302e9315a54e2c811de9&rid=giphy.gif" width="250">
-
+<br>
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Java | Cloud ☁️ 
