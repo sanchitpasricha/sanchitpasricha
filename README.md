@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Sanchit Pasrihca</h2>
 
-<img align='right' src="https://giphy.com/stickers/code-developer-keep-calm-gLWLC3fjwG56p3H4uC" width="230">
+<img align='right' src="https://media4.giphy.com/media/gLWLC3fjwG56p3H4uC/giphy.gif?cid=ecf05e4775a3536c2bd93aaf4b89004cb5d717e8c340b431&rid=giphy.gif" width="230">
 
 <h3>💻About Me</h3>
 
