@@ -47,7 +47,7 @@
 - 🖥 &nbsp; Filmora | Photoshop | Corel Draw
 
 
-
+<img align='right' src="https://media3.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=ecf05e47sgt3mzi0mhlnliu0za8wwsqg480llk5wpu46rty3&rid=giphy.gif" width="250">
 
 <h3>🛠 To Learn</h3>
 
