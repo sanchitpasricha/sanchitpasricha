@@ -1,9 +1,7 @@
-### Hi there 👋<h2> I'm Sanchit Pasrihca</h2>
+### Hello, there 👋<h2> I'm Sanchit Pasrihca</h2>
 
-<img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="270">
-<br>
-<br>
-<br>
+<img align='center' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="270">
+
 <h3>💻About Me</h3>
 
 
