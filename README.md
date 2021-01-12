@@ -8,7 +8,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20">   
 <img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "20">     
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "20">     
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/493px-Adobe_Photoshop_CC_icon.svg.png" width = "20">      
+     
 </h3>
 
 
