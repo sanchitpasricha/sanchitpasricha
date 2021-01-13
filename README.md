@@ -10,7 +10,7 @@
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "20">     
      
 </h3>
-
+<hr>
 
 <img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="250">
 <h3>💻About Me</h3>
@@ -62,7 +62,6 @@
 - 📚 Read books (sometimes)
 
 - 🍿 Netflix
-<hr>
 
 
 
