@@ -1,68 +1,60 @@
-### Hello, there 👋<h2> I'm Sanchit Pasricha</h2>
-<h3>
-<img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width = "20"> 
-<img src = "https://www.naveedashfaq.me/img/c++.png" width = "20"> 
-<img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "20"> 
-<img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "20">   
-<img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "20">   
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "20">   
-<img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "20">     
-<img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "20">     
-     
-</h3>
-<hr>
+<h1 style="font-family: 'JetBrains Mono'"> 👋 Hiii </h1>
+<h3>Hey! Its Sanchit Pasricha</h3>
 
-<img align='right' src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e478c3224bca4d6340c3a08ee5586d4920748a4771f&rid=giphy.gif" width="250">
-<h3>💻About Me</h3>
+Exploring Tech with some caffeine !!
 
+I am crazy about coding and am a Tech Enthusiast who is always ready to discuss ideas and things about technology. Learning new things daily and revising the previous things to be better at them. I worked on cloud computing on Qwiklabs platform. Taking courses scalling daily and thats only i am doing now a days :)
 
+## ⚡ Languages/Tech:
+<p>
+<img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30">
+<img src = "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="25">
+<img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "25">
+<img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "25">
+<img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "25">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "25">
+<img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "25">
+<img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
+<img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25">
+<img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
+</p>
 
-- 🤔 &nbsp; Learning New things and revising concepts daily.
+ - C
+ - C++
+ - Python 
+ - HTML5 
+ - CSS3 
+ - JavaScript (HW) 
+ - BootStrap
+ - Git
+ - Bash
+ - Databases: MySQL      
 
-- 🎓 &nbsp; Studying Computer Science Engineering at Chitkara University, Chandigharh.
+##  👀 What I Am Learning rn:
 
-- 🌱 &nbsp; Taking some online courses on Coursera and Udemy.
+- Currently learning Data structures and Algorithms in C.
+- Polishing previously acquired skills.
+- Taking courses on Coursera and codingNinjas.
+- I love to talk about Science and other knowledgeable stuff. 
 
-- ✍️ &nbsp; I read books that inspires me.
+##  💬 Where to find me:
 
+ <a href="https://www.linkedin.com/in/sanchit-pasricha/"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://twitter.com/Sanchit_2908"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
+ <a href="mailto:sanchit0229@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a  href="https://www.instagram.com/p.sanchit_pvt.exe/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<img align='left' src="https://media0.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif?cid=ecf05e4710e58c4052852ec595290af281850ccdc67b9730&rid=giphy.gif" width="170" height = 170>
+##  💻 Tech I work with:
 
-<h3>🛠 Tech gone through</h3>
-
-
-
-- 💻 &nbsp; C | C++ | Python | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
--->
-
-- 🖥 &nbsp; Filmora | Photoshop | Corel Draw
-
-
-<img align='right' src="https://media3.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif?cid=ecf05e47aee82c42d06ae6098564302e9315a54e2c811de9&rid=giphy.gif" width="250">
-<br>
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Java | Cloud ☁️ 
-
-<h3>👾 Things I do in free time</h3>
-
-- 🎧 Listen Music and podcasts
-
-- 📺 Watch Tech videos
-
-- 📚 Read books (sometimes)
-
-- 🍿 Netflix
+ - IDE: PyCharm
+ - Text Editors: VS Code, Sublime Text, Brackets
+ - Terminal: Bash
+ - Laptop:
+			HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
+			
+ ### Profile Views :<br>
+ 
+  <img src="https://profile-counter.glitch.me/sanchitpasricha/count.svg" />
 
 
-
-
+ 
