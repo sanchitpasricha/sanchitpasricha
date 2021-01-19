@@ -1,4 +1,4 @@
-<h1 style="font-family: 'JetBrains Mono'"> 👋 Hiii </h1>
+<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
 <h3>Hey! Its Sanchit Pasricha</h3>
 
 Exploring Tech with some caffeine !!
@@ -30,7 +30,8 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - BootStrap
  - Git
  - Bash
- - Databases: MySQL      
+ - Databases: MySQL   
+ - Cloud Computing
 
 ##  👀 What I Am Learning rn:
 
@@ -51,8 +52,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - IDE: PyCharm
  - Text Editors: VS Code, Sublime Text, Brackets
  - Terminal: Bash
- - Laptop:
-			HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
+ - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
 			
  ### Profile Views :<br>
  
