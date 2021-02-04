@@ -51,7 +51,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
  - IDE: PyCharm
  - Text Editors: VS Code, Sublime Text, Brackets
- - Terminal: Bash
+ - Terminal: Powershell
  - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
 			
  ### Profile Views :<br>
