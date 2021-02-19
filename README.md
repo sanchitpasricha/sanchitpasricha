@@ -49,10 +49,12 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 ##  💻 Tech I work with:
 
- - IDE: PyCharm
+ - IDE: PyCharm, Eclipse
  - Text Editors: VS Code, Sublime Text, Brackets
  - Terminal: Powershell
  - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
+ - Apple Airpods 2
+ - Cosmic byte backlit mechanical keyboard
 			
  ### Profile Views :<br>
  
