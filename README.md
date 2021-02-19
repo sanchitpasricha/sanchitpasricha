@@ -1,4 +1,4 @@
-<img src="https://github.com/sanchitpasricha/sanchitpasricha/blob/main/Screenshot%20(50).png">
+<img width="100%" src="https://github.com/sanchitpasricha/sanchitpasricha/blob/main/Screenshot%20(50).png">
 <hr>
 
 Exploring Tech with some caffeine !!
