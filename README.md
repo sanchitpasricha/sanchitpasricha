@@ -1,4 +1,5 @@
 <img src="https://github.com/sanchitpasricha/sanchitpasricha/blob/main/Screenshot%20(50).png">
+<h1>Hi, there people !<img height="30px" src="https://media4.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif?cid=ecf05e471lsbkf1hwalt1kwm5cryn2r6kiik89b5sz464ozz&rid=giphy.gif"></h1>
 <hr>
 
 Exploring Tech with some caffeine !!
