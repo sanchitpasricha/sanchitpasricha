@@ -1,5 +1,4 @@
-<h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
-<h3>Hey! Its Sanchit Pasricha</h3>
+<img src="https://github.com/sanchitpasricha/sanchitpasricha/blob/main/Screenshot%20(50).png?raw=true">
 
 Exploring Tech with some caffeine !!
 
