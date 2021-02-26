@@ -25,11 +25,11 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
  - C
  - C++
+ - Java
  - Python 
  - HTML5 
  - CSS3 
  - JavaScript 
- - BootStrap
  - Git
  - Bash
  - Databases: MySQL   
