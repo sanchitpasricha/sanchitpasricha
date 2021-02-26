@@ -8,6 +8,8 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 ## ⚡ Languages/Tech:
 <p>	
+<img src = "https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" width="25">		
+<img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
 <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30">
 <img src = "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="25">
 <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "25">
@@ -18,7 +20,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
 <img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25">
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
-<img src = "https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" width="25">	
 <img src = "https://www.searchpng.com/wp-content/uploads/2019/02/Google-Cloud-Logo-PNG-Image.png" width="28">	
 </p>
 <hr>
