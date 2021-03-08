@@ -1,4 +1,5 @@
-<img src="https://github.com/sanchitpasricha/sanchitpasricha/blob/main/Screenshot%20(88).png">
+<img src="![image](https://user-images.githubusercontent.com/68962774/110329164-45ab8e80-8042-11eb-9119-e5f4816e8fb3.png)
+">
 <h1>Hi there, people !<img height="30px" src="https://media4.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif?cid=ecf05e471lsbkf1hwalt1kwm5cryn2r6kiik89b5sz464ozz&rid=giphy.gif"></h1>
 <hr>
 
