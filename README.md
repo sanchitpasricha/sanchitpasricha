@@ -33,8 +33,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Bootstrap
  - JavaScript
  - Jquery
- - Git
- - Bash
  - Databases: MySQL   
  - Cloud Computing
 
