@@ -29,8 +29,10 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Java
  - Python 
  - HTML5 
- - CSS3 
- - JavaScript 
+ - CSS3
+ - Bootstrap
+ - JavaScript
+ - Jquery
  - Git
  - Bash
  - Databases: MySQL   
