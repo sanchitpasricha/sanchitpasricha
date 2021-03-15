@@ -23,7 +23,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src = "https://www.searchpng.com/wp-content/uploads/2019/02/Google-Cloud-Logo-PNG-Image.png" width="28">	
 </p>
 <hr>
-
+<!--
  - C
  - C++
  - Java
@@ -35,7 +35,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Jquery
  - Databases: MySQL   
  - Cloud Computing
-
+-->
 ##  👀 What I Am Learning rn:
 
 - Currently learning Data structures and Algorithms in C.
