@@ -1,10 +1,9 @@
 <div><img src="https://raw.githubusercontent.com/sanchitpasricha/sanchitpasricha/main/Screenshot%20(88).png"></div>
 <h1>Hi there, people !<img height="30px" src="https://media4.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif?cid=ecf05e471lsbkf1hwalt1kwm5cryn2r6kiik89b5sz464ozz&rid=giphy.gif"></h1>
-<hr>
-
+<!--
 Exploring Tech with some caffeine !!
-
 I am crazy about coding and am a Tech Enthusiast who is always ready to discuss ideas and things about technology. Learning new things daily and revising the previous things to be better at them. I worked on cloud computing on Qwiklabs platform. Taking courses scalling daily and thats only i am doing now a days :)
+-->
 
 ## ⚡ Languages/Tech:
 <p>		
@@ -36,6 +35,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Databases: MySQL   
  - Cloud Computing
 -->
+
 ##  👀 What I Am Learning rn:
 
 - Currently learning Data structures and Algorithms in C.
