@@ -7,7 +7,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 -->
 
 <!-- ## ⚡ Languages/Tech:-->
-
+<hr>
 <p>		
 <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30">
 <img src = "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="25">
