@@ -24,7 +24,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25"> -->
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
 <img src = "https://www.searchpng.com/wp-content/uploads/2019/02/Google-Cloud-Logo-PNG-Image.png" width="28">	
-<img src = "https://i.dlpng.com/static/png/6865063_preview.png" width="28">	
+<img src = "https://crackfury.com/wp-content/uploads/2020/05/Adobe-illustrator-2020-Crack-Free-Download-License-Key.jpg" width="26">	
 <img src = "https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="26"> 
 </p>
 
