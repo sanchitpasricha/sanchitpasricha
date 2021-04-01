@@ -17,7 +17,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <!-- <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "25"> -->
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "25">
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "25">
-<img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "25"> 
+<!-- <img src = "https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" width = "25">  -->
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "25">
 <img src = "https://avatars.githubusercontent.com/u/70142?s=200&v=4" width="28">
 <!-- <img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
