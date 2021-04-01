@@ -29,7 +29,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <p>
 
-<img src = "https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="26">
+<img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="26">
 <img src = "https://cdn.pixabay.com/photo/2015/11/27/12/48/premiere-1065489_1280.jpg" width="26">
 <img src = "https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="27">	
 
