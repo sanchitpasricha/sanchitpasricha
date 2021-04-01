@@ -30,8 +30,8 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <p>
 
 <img src = "https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="26">
-<img src = "https://i.pinimg.com/originals/d5/a8/96/d5a896d9f6e3275d4e179f457cdbbeff.png" width="26">
-<img src = "https://crackfury.com/wp-content/uploads/2020/05/Adobe-illustrator-2020-Crack-Free-Download-License-Key.jpg" width="27">	
+<img src = "https://cdn.pixabay.com/photo/2015/11/27/12/48/premiere-1065489_1280.jpg" width="26">
+<img src = "https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="26">	
 
 
 </p>
