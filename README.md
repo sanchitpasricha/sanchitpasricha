@@ -26,7 +26,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="26">		
 </p>
 
-<hr>
 
 <p>
 
