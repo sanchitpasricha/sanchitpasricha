@@ -67,7 +67,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
  - IDE: PyCharm, Eclipse
  - Text Editors: VS Code, Sublime Text, Brackets
- - Terminal: Linux Kernel🐧
+ - Terminal: Linux Kernel
  - OS - Ubuntu
  - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
  - Apple Airpods 2
