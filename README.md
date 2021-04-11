@@ -79,3 +79,4 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanchitpasricha&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sanchit's Stats" />
 </a>
  
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=material-palenight" />
