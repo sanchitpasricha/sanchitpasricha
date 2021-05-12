@@ -63,14 +63,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  <a href="mailto:sanchit0229@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/p.sanchit_pvt.exe/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-##  💻 Tech I work with:
-
- - IDE: PyCharm, Eclipse
- - Text Editors: VS Code, Sublime Text, Brackets
- - Terminal: Bash
- - HP notebook i5 16GB 2TB(hdd) 256(ssd) ✨
- - Apple Airpods 2
- - Cosmic byte backlit mechanical keyboard
 			
 <!-- ### Profile Views :<br> -->
  
@@ -79,4 +71,4 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanchitpasricha&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sanchit's Stats" />
 </a>
  
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=material-palenight" />
+
