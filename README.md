@@ -56,13 +56,13 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 - Taking courses on Coursera and codingNinjas.
 - I love to talk about Science and other knowledgeable stuff. 
 
+<!-- 
 ##  💬 Where to find me:
-
  <a href="https://www.linkedin.com/in/sanchit-pasricha/"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  <a href="https://twitter.com/Sanchit_2908"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
  <a href="mailto:sanchit0229@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a  href="https://www.instagram.com/p.sanchit_pvt.exe/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+-->
 			
 <!-- ### Profile Views :<br> -->
  
