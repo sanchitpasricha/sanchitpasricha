@@ -69,5 +69,5 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <!-- <img src="https://profile-counter.glitch.me/sanchitpasricha/count.svg" /> -->
 
  
- <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=radical\' alt="Sanchit's used languages">
+ <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=shades-of-purple' alt="Sanchit's used languages">
 
