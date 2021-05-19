@@ -51,10 +51,11 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 ##  👀 What I Am Learning rn:
 
-- Currently learning Data structures and Algorithms in C.
-- Polishing previously acquired skills.
-- Taking courses on Coursera and codingNinjas.
-- I love to talk about Science and other knowledgeable stuff. 
+🔭 I’m currently exploring
+🌱 I’m currently learning Data structures.
+🤔 I’m looking to start open source contribution.
+😄 Pronouns: He/His
+⚡ Fun fact: Will be "telling" soon.
 
 <!-- 
 ##  💬 Where to find me:
