@@ -51,11 +51,18 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 ##  👀 What I Am Learning rn:
 
-🔭 I’m currently exploring
-🌱 I’m currently learning Data structures.
-🤔 I’m looking to start open source contribution.
-😄 Pronouns: He/His
-⚡ Fun fact: Will be "telling" soon.
+<p>
+	
+-🔭 I’m currently exploring
+
+-🌱 I’m currently learning Data structures.
+
+-🤔 I’m looking to start open source contribution.
+
+-😄 Pronouns: He/His
+
+-⚡ Fun fact: Will be "telling" soon.
+</p>
 
 <!-- 
 ##  💬 Where to find me:
