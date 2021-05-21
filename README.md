@@ -1,6 +1,9 @@
 <!-- <div><img src="https://raw.githubusercontent.com/sanchitpasricha/sanchitpasricha/main/Screenshot%20(88).png"></div> -->
 
-<div><img src="https://raw.githubusercontent.com/sanchitpasricha/sanchitpasricha/main/Dark%20KJI%20Technologies%20Animated%20Web%20Banner.gif"></div>
+<!-- <div><img src="https://raw.githubusercontent.com/sanchitpasricha/sanchitpasricha/main/Dark%20KJI%20Technologies%20Animated%20Web%20Banner.gif"></div> -->
+
+
+<div><img src="https://raw.githubusercontent.com/sanchitpasricha/sanchitpasricha/main/Dark%20KJI%20Technologies%20Animated%20Web%20Banner%20(1).gif"></div>
 
 <!--<h1>Hi there, people !<img height="30px" src="https://media4.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif?cid=ecf05e471lsbkf1hwalt1kwm5cryn2r6kiik89b5sz464ozz&rid=giphy.gif"></h1> -->
 
@@ -78,9 +81,9 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <!-- ### Profile Views :<br> -->
  
 <!-- <img src="https://profile-counter.glitch.me/sanchitpasricha/count.svg" /> -->
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=prussian'>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=graywhite'>
  
- <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=prussian' alt="Sanchit's used languages">
+ <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=graywhite' alt="Sanchit's used languages">
  
  
 
