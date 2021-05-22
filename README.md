@@ -67,7 +67,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 -😄 Pronouns: He/His
 
--⚡ Fun fact: I like to keep everything in order.
+-⚡ Fun fact: I like to keep everything in order and clean.
 </p>
 
 <!-- 
