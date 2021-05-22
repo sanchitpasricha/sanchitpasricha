@@ -59,15 +59,15 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <p>
 	
--🔭 I’m currently exploring
+-🔭 I’m currently exploring different tech fields.
 
--🌱 I’m currently learning Data structures.
+-🌱 I’m currently learning Data structures using C
 
--🤔 I’m looking to start open source contribution.
+-🤔 I’m looking to start a new project to work on.
 
 -😄 Pronouns: He/His
 
--⚡ Fun fact: Will be "telling" soon.
+-⚡ Fun fact: I like to keep everything in order.
 </p>
 
 <!-- 
