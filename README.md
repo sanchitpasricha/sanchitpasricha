@@ -55,7 +55,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Cloud Computing
 -->
 
-##  👀 What I Am Learning rn:
+##  👀 What I Am Doing rn:
 
 <p>
 	
