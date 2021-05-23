@@ -81,9 +81,21 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <!-- ### Profile Views :<br> -->
  
 <!-- <img src="https://profile-counter.glitch.me/sanchitpasricha/count.svg" /> -->
-<img  align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=merko'>
+
  
- <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=merko' alt="Sanchit's used languages">
- 
- 
+
+ <details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img  align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitPasricha&layout=compact&theme=merko'>
+	<br>
+	<img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=merko' alt="Sanchit's used languages">     
+        <br>
+</details>
+<br>
+
+
+
 
