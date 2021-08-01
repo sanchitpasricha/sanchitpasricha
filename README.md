@@ -30,7 +30,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <!-- <img src = "https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width = "25">
 <img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25"> -->
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="26">	
+
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="26">	
 <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="26">
 
