@@ -88,7 +88,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <!-- <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=merko' alt="Sanchit's used languages">  -->   
         
-[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitPasricha&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
