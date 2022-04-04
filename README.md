@@ -32,7 +32,8 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src="https://cdn1.iconfinder.com/data/icons/flat-rounded-icons/48/ico-26-512.png" width="25"> -->
 <!-- <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "25"> -->
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="26">	
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="26">
+<img src = "https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="32">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="25">	
 <img src = "https://www.pinclipart.com/picdir/big/9-92644_database-clipart-raw-data-azure-sql-server-png.png" width="25">	
 
@@ -64,9 +65,9 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <p>
 	
--🔭 I’m currently exploring different tech fields.
+-🔭 I’m currently revisiting previously acquired skills.
 
--🌱 I’m currently studying tech stack for cloud.
+-🌱 I’m currently studying tech stack for DevOps.
 
 -🤔 I’m looking to start a new project to work on.
 
