@@ -15,6 +15,23 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <!-- ## ⚡ Languages/Tech:-->
 
+##  👀 What I Am Doing rn:
+
+<p>
+	
+- 😄 Pronouns: He/His
+	
+<!-- -🔭 I’m currently revisiting previously acquired skills. -->
+
+- 🌱 I’m currently studying tech stack for DevOps.
+
+<!-- -🤔 I’m looking to start a new project to work on. -->
+
+- ⚡ Fun fact: I like to keep everything in order and clean.
+</p>
+
+<hr>
+
 ## 🗃Languages/Tools:
 
 <!-- <p>		 -->
@@ -57,9 +74,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 </p>
 
 
-<hr>
-
-
 <!--
  - C
  - C++
@@ -73,21 +87,6 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
  - Databases: MySQL   
  - Cloud Computing
 -->
-
-##  👀 What I Am Doing rn:
-
-<p>
-	
--🔭 I’m currently revisiting previously acquired skills.
-
--🌱 I’m currently studying tech stack for DevOps.
-
--🤔 I’m looking to start a new project to work on.
-
--😄 Pronouns: He/His
-
--⚡ Fun fact: I like to keep everything in order and clean.
-</p>
 
 <!-- 
 ##  💬 Where to find me:
