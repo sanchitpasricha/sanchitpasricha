@@ -73,6 +73,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 </p>
 
+<a href="https://github.com/sanchitpasricha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitpasricha&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!--
  - C
