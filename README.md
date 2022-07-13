@@ -77,7 +77,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" height="25"/>	
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitpasricha&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Sanchit Pasricha :: Top Langs" />
+
 
 <!--
  - C
