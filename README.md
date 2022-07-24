@@ -123,7 +123,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 <!-- <img align='center' src='https://github-readme-stats.vercel.app/api?username=sanchitPasricha&show_icons=true&theme=merko' alt="Sanchit's used languages">  -->   
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitpasricha&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Sanchit Pasricha :: Top Langs" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitpasricha&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Sanchit Pasricha :: Top Langs" /> -->
 
 
 
