@@ -23,7 +23,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 	
 <!-- -🔭 I’m currently revisiting previously acquired skills. -->
 
-- 🌱 I’m currently studying tech stack for DevOps.
+- 🌱 I’m currently studying Data Analytics and Machine Learning.
 
 <!-- -🤔 I’m looking to start a new project to work on. -->
 
