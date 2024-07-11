@@ -61,7 +61,7 @@ I am crazy about coding and am a Tech Enthusiast who is always ready to discuss 
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,nextjs,flutter,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,nextjs,flutter,tailwind,bootstrap&perline=7)](https://skillicons.dev)
 
 ## Dev tools
 
