@@ -3,8 +3,8 @@
 <p>
 	
 - 😄 Pronouns: He/His
-- 🔭 I’m currently revisiting previously acquired skills. 
-- 🌱 I’m currently studying Data Analytics and Machine Learning.
+- 🔭 I’m currently building Trello-ish 
+- 🌱 I’m currently studying Multiple things.
 - ⚡ Fun fact: I like to keep everything in order and clean.
 </p>
 
