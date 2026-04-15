@@ -6,14 +6,12 @@ I eat, sleep, and breathe tech. If there's something to learn, I'm probably alre
 
 ## whoami
 
-```yaml
-curious_about  : everything
-currently      : going deeper into distributed systems & core subjects
-habit          : reading tech articles for fun
-motto          : "I can do this all day."
-repo           : https://github.com/sanchitpasricha/DailyPlanner
-```
-
+| | |
+|:--|:--|
+| curious_about | everything |
+| currently | Diving deeper in core subjects - Learning Daily ([DailyPlanner](https://github.com/sanchitpasricha/DailyPlanner)) |
+| habit | reading tech articles for fun |
+| motto | "I can do this all day." |
 ---
 
 ## skills
