@@ -9,7 +9,7 @@ I eat, sleep, and breathe tech. If there's something to learn, I'm probably alre
 | | |
 |:--|:--|
 | curious_about | everything |
-| currently | Diving deeper in core subjects - Learning Daily ([DailyPlanner](https://github.com/sanchitpasricha/DailyPlanner)) |
+| currently | diving deeper in core subjects - Learning Daily ([DailyPlanner](https://github.com/sanchitpasricha/DailyPlanner)) |
 | habit | reading tech articles for fun |
 | motto | "I can do this all day." |
 ---
