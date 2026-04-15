@@ -1,27 +1,28 @@
-##  👀 What I Am Doing rn:
+# Hi, I'm Sanchit Pasricha 👋
 
-<p>
-	
-- 😄 Pronouns: He/His
-- 🌱 I’m currently studying Multiple things.
-- ⚡ Fun fact: I like to keep everything in order and clean.
-</p>
+I eat, sleep, and breathe tech. If there's something to learn, I'm probably already knee-deep in it.
 
-<hr>
+---
 
+## whoami
 
-## Languages
+```yaml
+curious_about  : everything
+currently      : going deeper into distributed systems & core subjects
+habit          : reading tech articles for fun
+motto          : "I can do this all day."
+```
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,js,python,java)](https://skillicons.dev)
+---
 
-## Frameworks
+## skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,expressjs,nextjs,flutter,tailwind,bootstrap&perline=7)](https://skillicons.dev)
-
-## Dev tools
-
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,nginx,aws,cloudflare)](https://skillicons.dev)
-
-## DB
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
+```
+Data Structures
+System Design
+Object Oriented Design
+Distributed Algorithms
+AWS
+Backend Development
+APIs                    
+```
