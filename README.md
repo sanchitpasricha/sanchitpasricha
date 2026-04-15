@@ -11,7 +11,7 @@ curious_about  : everything
 currently      : going deeper into distributed systems & core subjects
 habit          : reading tech articles for fun
 motto          : "I can do this all day."
-repo          : https://github.com/sanchitpasricha/DailyPlanner
+repo           : https://github.com/sanchitpasricha/DailyPlanner
 ```
 
 ---
